@@ -1,8 +1,7 @@
 <h1 align="center">
   <div align="center">
-    <img alt="Devenpauros (Daniel Gomez) logo" src="./public/D-light.png" height="150px" width="auto"/>
+    <img alt="Firefly Components Logo" src="./assets/favicon.png" height="70px" width="auto"/>
   </div>
-  <br/>
   Firefly Components
 </h1>
 
@@ -10,14 +9,14 @@ Firefly Components es un pequeño set de componentes reutilizables hechos en Rea
 
 ## ⚙ Dependencias
 
-* [React.js +17.0](https://es.reactjs.org/)
-* [Styled Components +5.0](https://styled-components.com/)
-* [React-select +5.4](https://react-select.com/home)
+-   [React.js +17.0](https://es.reactjs.org/)
+-   [Styled Components +5.0](https://styled-components.com/)
+-   [React-select +5.4](https://react-select.com/home)
 
 ## ⭐ Características
 
-* Diseño minimalista
-* Tema claro y oscuro
+-   Diseño minimalista
+-   Tema claro y oscuro
 
 ## 🪲 Bugs y feedback
 
